@@ -1,0 +1,13 @@
+A dump of all lore pages in New World, up to date as of the Closed Beta (July 2021)
+
+* [Legends of Aeternum](lore_pages/Legends%20of%20Aeternum.md)
+* [Tales of Aeternum](lore_pages/Tales%20of%20Aeternum.md)
+* [Tales of Everfall](lore_pages/Tales%20of%20Everfall.md)
+* [Tales of First Light](lore_pages/Tales%20of%20First%20Light.md)
+* [Tales of Great Cleave](lore_pages/Tales%20of%20Great%20Cleave.md)
+* [Tales of Monarch's Bluffs](lore_pages/Tales%20of%20Monarch%27s%20Bluffs.md)
+* [Tales of Mourningdale](lore_pages/Tales%20of%20Mourningdale.md)
+* [Tales of Restless Shore](lore_pages/Tales%20of%20Restless%20Shore.md)
+* [Tales of Shattered Mountain](lore_pages/Tales%20of%20Shattered%20Mountain.md)
+* [Tales of Weaver's Fen](lore_pages/Tales%20of%20Weaver%27s%20Fen.md)
+* [Tales of Windsward](lore_pages/Tales%20of%20Windsward.md)
